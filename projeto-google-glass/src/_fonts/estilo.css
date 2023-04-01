@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+    color: rgba(0,0,0,1);
+}
+p { 
+    text-align: justify;
+    text-indent: 50px;
+}
+
+/* Formatação de imagens com legendas */
+
+figure.foto-legenda {
+    border: 8px solid color red;
+}
+ 
+/* Formatação do Menu */
+
+nav#menu ul {
+    list-style-type: none;
+}
+
+
